@@ -9,12 +9,8 @@ namespace Player
         [SerializeField] private float moveSpeed = 5f;
         [SerializeField] private float sprintMultiplier = 1.5f;
         [SerializeField] private float jumpForce = 8f;
-        [SerializeField] private float dashForce = 12f;
+        [SerializeField] private float dashForce = 50f;
         [SerializeField] private float dashCooldown = 1f;
-        //We need a transfor to check if our player is grounded
-        //[SerializeField] private Transform groundCheck;
-        //A radius for a sphere for ground checking
-        [SerializeField] private float groundRadius = 0.4f;
         [SerializeField] private LayerMask groundLayer;
         [SerializeField] private Transform spineTransform;//Child contains animation
         [SerializeField] private AudioHandler audioHandler;//The audio manager
@@ -37,12 +33,10 @@ namespace Player
         }
         private void FixedUpdate()
         {
-            //Check if it's grounded
-            //CheckGrounded();
             //We use fixed update to maintain movement speed as a constant
+            Dash();
             Jump();
             Move();
-            Dash();
         }
         //And finally, the methods
         private void Move()
@@ -85,17 +79,5 @@ namespace Player
                 spineTransform.localScale = new Vector3(1f, 1f, 1f);
             }
         }
-        /*private void CheckGrounded()
-        {
-            isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundLayer);
-        }
-        private void OnDrawGizmosSelected()
-        {
-            if (groundCheck != null)
-            {
-                Gizmos.color = Color.red;
-                Gizmos.DrawWireSphere(groundCheck.position, groundRadius);
-            }
-        }*/
     }
 }

@@ -816,7 +816,6 @@ MonoBehaviour:
   jumpForce: 8
   dashForce: 12
   dashCooldown: 1
-  groundRadius: 0.2
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
