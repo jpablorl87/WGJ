@@ -9,16 +9,19 @@ namespace Player
         [SerializeField] private float moveSpeed = 5f;
         [SerializeField] private float sprintMultiplier = 1.5f;
         [SerializeField] private float jumpForce = 8f;
-        [SerializeField] private float dashForce = 50f;
+        [SerializeField] private float dashForce = 20f;
         [SerializeField] private float dashCooldown = 1f;
         [SerializeField] private LayerMask groundLayer;
         [SerializeField] private Transform spineTransform;//Child contains animation
         [SerializeField] private AudioHandler audioHandler;//The audio manager
         [SerializeField] private GroundChecker groundChecker;
+        [SerializeField] private float dashDuration = 0.2f;
+        private bool isDashing = false;
+        private float dashTimeRemaining;
+        private float dashDirection;
         private Rigidbody2D rb;
         private PlayerInputHandler inputHandler;
         private float dashTimer;
-        private bool isGrounded;
         private void Awake()
         {
             //We initialize the rigidbody and the inputs
@@ -41,6 +44,7 @@ namespace Player
         //And finally, the methods
         private void Move()
         {
+            if (isDashing) return;
             float direction = inputHandler.GetMoveInputX();
             float speed = inputHandler.IsSprintHeld() ? moveSpeed * sprintMultiplier : moveSpeed;
             rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
@@ -56,15 +60,25 @@ namespace Player
         }
         private void Dash()
         {
-            if (inputHandler.IsDashPressed() && dashTimer <= 0f)
+            if (inputHandler.IsDashPressed() && dashTimer <= 0f && !isDashing)
             {
-                float direction = Mathf.Sign(inputHandler.GetMoveInputX());
+                dashDirection = Mathf.Sign(inputHandler.GetMoveInputX());
+                if (dashDirection == 0f)
+                    dashDirection = transform.localScale.x > 0 ? 1f : -1f;//fallback
 
-                if (direction != 0f)
+                isDashing = true;
+                dashTimeRemaining = dashDuration;
+                dashTimer = dashCooldown;
+                audioHandler.PlayDashSound();
+            }
+            if (isDashing)
+            {
+                rb.linearVelocity = new Vector2(dashDirection * dashForce, 0f);
+                dashTimeRemaining -= Time.fixedDeltaTime;
+
+                if (dashTimeRemaining <= 0f)
                 {
-                    rb.AddForce(new Vector2(direction * dashForce, 0f), ForceMode2D.Impulse);
-                    dashTimer = dashCooldown;
-                    audioHandler.PlayDashSound();
+                    isDashing = false;
                 }
             }
         }
