@@ -4,13 +4,20 @@ namespace Player
 {
     public class PlayerAnimationHandler : MonoBehaviour
     {
+        //Skeleton animation for spine
         [SerializeField] private SkeletonAnimation skeletonAnimation;
+        //Inputs
         [SerializeField] private PlayerInputHandler inputHandler;
         [SerializeField] private Rigidbody2D rb;
         private void Update()
         {
             float xInput = inputHandler.GetMoveInputX();
             float yVelocity = rb.linearVelocity.y;
+            if (inputHandler.IsDashPressed())
+            {
+                SetAnimation("dash", false);
+                return;
+            }
             if (yVelocity > 0.1f)
             {
                 SetAnimation("jump", false);
@@ -23,11 +30,11 @@ namespace Player
             {
                 if (inputHandler.IsSprintHeld())
                 {
-                    SetAnimation("run", true);
+                    SetAnimation("sprint", true);
                 }
                 else
                 {
-                    SetAnimation("walk", true);
+                    SetAnimation("run", true);
                 }
             }
             else
