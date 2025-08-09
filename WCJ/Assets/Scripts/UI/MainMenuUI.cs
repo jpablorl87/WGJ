@@ -8,7 +8,7 @@ public class MainMenuUI : MonoBehaviour
     }
     public void OpenCredits()
     {
-        SceneManager.LoadScene("CreditsScene");
+        SceneManager.LoadScene("Credits");
     }
     public void ExitGame()
     {
