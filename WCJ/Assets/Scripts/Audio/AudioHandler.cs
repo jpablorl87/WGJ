@@ -1,35 +1,62 @@
 using UnityEngine;
-namespace Player
+
+public class AudioHandler : MonoBehaviour
 {
-    public class AudioHandler : MonoBehaviour
+    [Header("Efectos de sonido")]
+    [SerializeField] private AudioSource sfxSource;
+    [SerializeField] private AudioClip jumpClip;
+    [SerializeField] private AudioClip dashClip;
+    [SerializeField] private AudioClip hitClip;
+    [SerializeField] private AudioClip pauseClip;
+
+    [Header("Música de fondo")]
+    [SerializeField] private AudioSource backgroundSource;
+    [SerializeField] private AudioClip bottomClip;
+
+    private bool isPaused = false;
+
+    private void Update()
     {
-        [SerializeField] private AudioSource audioSource;
-        [SerializeField] private AudioClip jumpClip;
-        [SerializeField] private AudioClip dashClip;
-        [SerializeField] private AudioClip hitClip;
-        [SerializeField] private AudioClip pauseClip;
-        public void PlayJumpSound()
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            PlayClip(jumpClip);
+            TogglePause();
         }
-        public void PlayDashSound()
+    }
+
+    public void PlayJumpSound() => PlaySFX(jumpClip);
+    public void PlayDashSound() => PlaySFX(dashClip);
+    public void PlayHitSound() => PlaySFX(hitClip);
+    public void PlayPauseSound() => PlaySFX(pauseClip);
+
+    public void PlayBackground()
+    {
+        if (backgroundSource != null && bottomClip != null)
         {
-            PlayClip(dashClip);
+            backgroundSource.clip = bottomClip;
+            backgroundSource.loop = true;
+            backgroundSource.Play();
         }
-        public void PlayHitSound()
+    }
+
+    private void PlaySFX(AudioClip clip)
+    {
+        if (clip != null && sfxSource != null)
+            sfxSource.PlayOneShot(clip);
+    }
+
+    private void TogglePause()
+    {
+        isPaused = !isPaused;
+        PlayPauseSound();
+        if (isPaused)
         {
-            PlayClip(hitClip);
+            Time.timeScale = 0f;
+            backgroundSource.Pause();
         }
-        public void PlayPauseSound()
+        else
         {
-            PlayClip(pauseClip);
-        }
-        private void PlayClip(AudioClip clip)
-        {
-            if (clip != null && audioSource != null)
-            {
-                audioSource.PlayOneShot(clip);
-            }
+            Time.timeScale = 1f;
+            backgroundSource.UnPause();
         }
     }
 }
