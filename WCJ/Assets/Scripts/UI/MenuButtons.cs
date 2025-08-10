@@ -19,4 +19,10 @@ public class MenuButtons : MonoBehaviour
        // SceneManager.LoadScene("MainMenu");
 
     }
+
+    public void HowToPlay()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("HowToPlay");
+    }
 }
