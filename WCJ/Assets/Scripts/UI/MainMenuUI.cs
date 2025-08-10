@@ -4,7 +4,7 @@ public class MainMenuUI : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("MoritaEscene");
+        SceneManager.LoadScene("GameLevel");
     }
     public void OpenCredits()
     {
