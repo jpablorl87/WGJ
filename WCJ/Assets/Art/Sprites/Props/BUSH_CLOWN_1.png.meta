@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BUSH_CLOWN_1_0: -6789574775434772564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

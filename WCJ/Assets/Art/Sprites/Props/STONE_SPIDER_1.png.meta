@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      STONE_SPIDER_1_0: 6386461600921655761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
