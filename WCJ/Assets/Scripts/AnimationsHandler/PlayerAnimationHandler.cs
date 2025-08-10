@@ -13,7 +13,7 @@ namespace Player
         {
             float xInput = inputHandler.GetMoveInputX();
             float yVelocity = rb.linearVelocity.y;
-            if (inputHandler.IsDashPressed())
+            if (inputHandler.ConsumeDashPressed())
             {
                 SetAnimation("dash", false);
                 return;

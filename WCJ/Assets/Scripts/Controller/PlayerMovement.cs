@@ -1,19 +1,18 @@
 using UnityEngine;
+
 namespace Player
 {
-    //If the player doesn't have a rigidbody, there will be an alert
     [RequireComponent(typeof(Rigidbody2D))]
     public class PlayerMovement : MonoBehaviour
     {
-        //We give some values
         [SerializeField] private float moveSpeed = 5f;
         [SerializeField] private float sprintMultiplier = 1.5f;
         [SerializeField] private float jumpForce = 8f;
         [SerializeField] private float dashForce = 20f;
         [SerializeField] private float dashCooldown = 1f;
         [SerializeField] private LayerMask groundLayer;
-        [SerializeField] private Transform spineTransform;//Child contains animation
-        [SerializeField] private AudioHandler audioHandler;//The audio manager
+        [SerializeField] private Transform spineTransform;
+        [SerializeField] private AudioHandler audioHandler;
         [SerializeField] private GroundChecker groundChecker;
         [SerializeField] private float dashDuration = 0.2f;
         private bool isDashing = false;
@@ -24,24 +23,19 @@ namespace Player
         private float dashTimer;
         private void Awake()
         {
-            //We initialize the rigidbody and the inputs
             rb = GetComponent<Rigidbody2D>();
             inputHandler = GetComponent<PlayerInputHandler>();
         }
         private void Update()
         {
-            Debug.Log("Grounded: " + groundChecker.IsGrounded);
-            Debug.Log("Jump Pressed: " + inputHandler.IsJumpPressed());
             dashTimer -= Time.deltaTime;
         }
         private void FixedUpdate()
         {
-            //We use fixed update to maintain movement speed as a constant
             Dash();
             Jump();
             Move();
         }
-        //And finally, the methods
         private void Move()
         {
             if (isDashing) return;
@@ -52,7 +46,7 @@ namespace Player
         }
         private void Jump()
         {
-            if (inputHandler.IsJumpPressed() && groundChecker.IsGrounded)
+            if (inputHandler.ConsumeJumpPressed() && groundChecker.IsGrounded)
             {
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
                 audioHandler.PlayJumpSound();
@@ -60,12 +54,10 @@ namespace Player
         }
         private void Dash()
         {
-            if (inputHandler.IsDashPressed() && dashTimer <= 0f && !isDashing)
+            if (inputHandler.ConsumeDashPressed() && dashTimer <= 0f && !isDashing)
             {
                 dashDirection = Mathf.Sign(inputHandler.GetMoveInputX());
-                if (dashDirection == 0f)
-                    dashDirection = transform.localScale.x > 0 ? 1f : -1f;//fallback
-
+                if (dashDirection == 0f) dashDirection = transform.localScale.x > 0 ? 1f : -1f;
                 isDashing = true;
                 dashTimeRemaining = dashDuration;
                 dashTimer = dashCooldown;
@@ -75,8 +67,7 @@ namespace Player
             {
                 rb.linearVelocity = new Vector2(dashDirection * dashForce, 0f);
                 dashTimeRemaining -= Time.fixedDeltaTime;
-
-                if (dashTimeRemaining <= 0f)
+                if (dashTimeRemaining <= 0f || Mathf.Abs(rb.linearVelocity.x) < 0.1f)
                 {
                     isDashing = false;
                 }
