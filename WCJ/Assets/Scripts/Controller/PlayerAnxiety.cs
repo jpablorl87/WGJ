@@ -1,5 +1,4 @@
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
 
 public class PlayerAnxiety : MonoBehaviour
 {
@@ -20,34 +19,52 @@ public class PlayerAnxiety : MonoBehaviour
 
     private bool isDead = false;
 
+    // Referencias
+    private AudioHandler audioHandler;
+    private PlayerAnimationHandler animationHandler;
+    private PlayerMovement movement;
+
     void Start()
     {
         if (mainCamera == null)
             mainCamera = Camera.main;
+
+        audioHandler = GetComponent<AudioHandler>();
+        animationHandler = GetComponent<PlayerAnimationHandler>();
+        movement = GetComponent<PlayerMovement>();
     }
 
     void Update()
     {
-        
+        if (isDead) return;
+
+        // Decaimiento de ansiedad con el tiempo
         decayTimer += Time.deltaTime;
         if (decayTimer >= decayInterval)
         {
             float oldAnxiety = anxiety;
             anxiety -= decayAmount;
             anxiety = Mathf.Max(anxiety, 0f);
-
-            Debug.Log($"[Baja Ansiedad] Antes: {oldAnxiety}, Cambio: -{(oldAnxiety - anxiety)}, Ahora: {anxiety}");
             decayTimer = 0f;
+
+            float change = oldAnxiety - anxiety;
+            Debug.Log($"[Baja Ansiedad] Antes: {oldAnxiety}, Cambio: -{change}, Ahora: {anxiety}");
         }
 
+        // Muerte por ansiedad
         if (anxiety >= maxAnxiety)
-            Die("Anxiety reached maximum");
+        {
+            Die("Ansiedad máxima alcanzada");
+        }
 
+        // Muerte por salir de pantalla a la izquierda
         float zDist = Mathf.Abs(mainCamera.transform.position.z);
         float leftX = mainCamera.ViewportToWorldPoint(new Vector3(0f, 0.5f, zDist)).x;
 
         if (transform.position.x < leftX + marginLeftDeath)
-            Die("Crossed the left border");
+        {
+            Die("Cruzó el borde izquierdo");
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -59,35 +76,35 @@ public class PlayerAnxiety : MonoBehaviour
             float oldAnxiety = anxiety;
             anxiety += anxietyPerEnemy;
             anxiety = Mathf.Min(anxiety, maxAnxiety);
+            float change = anxiety - oldAnxiety;
 
-            Debug.Log($"[Sube Ansiedad] Antes: {oldAnxiety}, Cambio: +{(anxiety - oldAnxiety)}, Ahora: {anxiety}");
+            Debug.Log($"[Sube Ansiedad / HIT] Antes: {oldAnxiety}, Cambio: +{change}, Ahora: {anxiety}");
 
+            // 🔊 Sonido de daño y 🎞️ animación de golpe
+            animationHandler?.ForcePlayAnimation("HIT-ANSI", false);
+
+            // Muerte por ansiedad (inmediata)
             if (anxiety >= maxAnxiety)
-                Die("Anxiety reached maximum");
+            {
+                Die("Ansiedad máxima alcanzada");
+            }
         }
     }
 
-    void Die(string reason)
+    private void Die(string reason)
     {
+        if (isDead) return;
         isDead = true;
-        Debug.Log($"[Death] {reason}");
-        Time.timeScale = 1f;
 
-        // Cargar la escena de Game Over
-        SceneManager.LoadScene("GameOver");
+        Debug.Log($"[Muerte] {reason}");
 
+        // Bloquea movimiento
+        if (movement != null) movement.enabled = false;
+
+        // Última animación de hit antes de destruir
+        animationHandler?.ForcePlayAnimation("HIT-ANSI", false);
+
+        // Destruye tras breve delay
+        Destroy(gameObject, 1.5f);
     }
-
- 
-
-
-
-    
-
-    
-       
-        
-    
 }
-
-
