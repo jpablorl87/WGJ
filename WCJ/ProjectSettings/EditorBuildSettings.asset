@@ -9,11 +9,23 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/MoritaEscene.unity
+    guid: cb6dda0a804caca44b58dd0f9a755700
+  - enabled: 1
+    path: Assets/Scenes/UI/MainMenu.unity
     guid: 0952fe081d29cc34cba1fc461b27d4bb
   - enabled: 1
-    path: Assets/Scenes/Credits.unity
+    path: Assets/Scenes/UI/Credits.unity
     guid: 0cfac4237328dfd48ad0eeb6bd9af602
+  - enabled: 0
+    path: Assets/Scenes/Copia SampleScene.unity
+    guid: 109e115ed4f1d0145994ab0837be5795
+  - enabled: 1
+    path: Assets/Scenes/UI/GameOver.unity
+    guid: 4b40af8c2f42e4e498db607ad1e31618
+  - enabled: 1
+    path: Assets/Scenes/UI/Victory.unity
+    guid: f588a4d63eabd4b4db316b9aaf0b3963
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
