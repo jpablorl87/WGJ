@@ -1,13 +1,16 @@
 using UnityEngine;
-namespace Runner
+
+public class CameraAutoScroll : MonoBehaviour
 {
-    public class CameraAutoScroll : MonoBehaviour
+    [SerializeField] private float scrollSpeed = 3f;
+    [SerializeField] private GameObject player;
+
+    private void Update()
     {
-        //Speed for the camera movement
-        [SerializeField] private float scrollSpeed = 3f;
-        private void Update()
-        {
-            transform.position += new Vector3(scrollSpeed * Time.deltaTime, 0f, 0f);
-        }
+        // Nueva posición X: se incrementa por scrollSpeed.
+        float newX = transform.position.x + scrollSpeed * Time.deltaTime;
+        float newY = player.transform.position.y;
+        float newZ = transform.position.z;
+        transform.position = new Vector3(newX, newY, newZ);
     }
 }
