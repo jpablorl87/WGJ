@@ -1,0 +1,3317 @@
+fileFormatVersion: 2
+guid: d2a480435902ac4409bddbd30fb85342
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5493478387669647635
+    second: CHARACTER-LV-1_0
+  - first:
+      213: -3553981350428818635
+    second: CHARACTER-LV-1_1
+  - first:
+      213: 8730823344639805821
+    second: CHARACTER-LV-1_2
+  - first:
+      213: 426760672413415224
+    second: CHARACTER-LV-1_3
+  - first:
+      213: -324980057771947478
+    second: CHARACTER-LV-1_4
+  - first:
+      213: 5544530271656359383
+    second: CHARACTER-LV-1_5
+  - first:
+      213: 7109199185017460834
+    second: CHARACTER-LV-1_6
+  - first:
+      213: 7275693114739483396
+    second: CHARACTER-LV-1_7
+  - first:
+      213: 3530742885807693683
+    second: CHARACTER-LV-1_8
+  - first:
+      213: 4686624707239940346
+    second: CHARACTER-LV-1_9
+  - first:
+      213: -5906123857952808593
+    second: CHARACTER-LV-1_10
+  - first:
+      213: -782920140590188376
+    second: CHARACTER-LV-1_11
+  - first:
+      213: -8790018527301979895
+    second: CHARACTER-LV-1_12
+  - first:
+      213: -8611772759856813089
+    second: CHARACTER-LV-1_13
+  - first:
+      213: -5875853838961389620
+    second: CHARACTER-LV-1_14
+  - first:
+      213: 3590136822188006281
+    second: CHARACTER-LV-1_15
+  - first:
+      213: 1998422698884197042
+    second: CHARACTER-LV-1_16
+  - first:
+      213: -8420888085879547642
+    second: CHARACTER-LV-1_17
+  - first:
+      213: -1901400185345986827
+    second: CHARACTER-LV-1_18
+  - first:
+      213: -263765401400682122
+    second: CHARACTER-LV-1_19
+  - first:
+      213: -1454811221151220386
+    second: CHARACTER-LV-1_20
+  - first:
+      213: 1852711088676421814
+    second: CHARACTER-LV-1_21
+  - first:
+      213: -2546754425058618476
+    second: CHARACTER-LV-1_22
+  - first:
+      213: -8527580447874644187
+    second: CHARACTER-LV-1_23
+  - first:
+      213: 5043281718911584137
+    second: CHARACTER-LV-1_24
+  - first:
+      213: 4512014188538126091
+    second: CHARACTER-LV-1_25
+  - first:
+      213: 5967244582103389254
+    second: CHARACTER-LV-1_26
+  - first:
+      213: -2915963602965724649
+    second: CHARACTER-LV-1_27
+  - first:
+      213: 6510124301520204601
+    second: CHARACTER-LV-1_28
+  - first:
+      213: -286986280047735551
+    second: CHARACTER-LV-1_29
+  - first:
+      213: -4320419330843395423
+    second: CHARACTER-LV-1_30
+  - first:
+      213: -3378246157041690312
+    second: CHARACTER-LV-1_31
+  - first:
+      213: -3835995633657178764
+    second: CHARACTER-LV-1_32
+  - first:
+      213: 1747086811226761451
+    second: CHARACTER-LV-1_33
+  - first:
+      213: 8623481047748218930
+    second: CHARACTER-LV-1_34
+  - first:
+      213: 4258080073231105887
+    second: CHARACTER-LV-1_35
+  - first:
+      213: -2512757574961736410
+    second: CHARACTER-LV-1_36
+  - first:
+      213: -9139424885117468064
+    second: CHARACTER-LV-1_37
+  - first:
+      213: 2610282206382775608
+    second: CHARACTER-LV-1_38
+  - first:
+      213: 3132106427191782286
+    second: CHARACTER-LV-1_39
+  - first:
+      213: 1707107884164976951
+    second: CHARACTER-LV-1_40
+  - first:
+      213: 8030257537403341375
+    second: CHARACTER-LV-1_41
+  - first:
+      213: -8809905693891944036
+    second: CHARACTER-LV-1_42
+  - first:
+      213: -937775149842562058
+    second: CHARACTER-LV-1_43
+  - first:
+      213: 5444733185402879258
+    second: CHARACTER-LV-1_44
+  - first:
+      213: -5946276724936576751
+    second: CHARACTER-LV-1_45
+  - first:
+      213: 1325959456777151016
+    second: CHARACTER-LV-1_46
+  - first:
+      213: 7532427744680471450
+    second: CHARACTER-LV-1_47
+  - first:
+      213: -2407210611853951857
+    second: CHARACTER-LV-1_48
+  - first:
+      213: -8843419272065889051
+    second: CHARACTER-LV-1_49
+  - first:
+      213: 9135731104801221990
+    second: CHARACTER-LV-1_50
+  - first:
+      213: -6993298178306357860
+    second: CHARACTER-LV-1_51
+  - first:
+      213: 545045302900433721
+    second: CHARACTER-LV-1_52
+  - first:
+      213: 950887253985245592
+    second: CHARACTER-LV-1_53
+  - first:
+      213: 7635560844726260663
+    second: CHARACTER-LV-1_54
+  - first:
+      213: -548605247086841915
+    second: CHARACTER-LV-1_55
+  - first:
+      213: -8173983922237553060
+    second: CHARACTER-LV-1_56
+  - first:
+      213: -3912777443617330151
+    second: CHARACTER-LV-1_57
+  - first:
+      213: -5415416339799783215
+    second: CHARACTER-LV-1_58
+  - first:
+      213: -5643581412677613101
+    second: CHARACTER-LV-1_59
+  - first:
+      213: -2651078165376575477
+    second: CHARACTER-LV-1_60
+  - first:
+      213: 6309665950758019654
+    second: CHARACTER-LV-1_61
+  - first:
+      213: -1588399098570691895
+    second: CHARACTER-LV-1_62
+  - first:
+      213: 7800821387835691827
+    second: CHARACTER-LV-1_63
+  - first:
+      213: 8896710938214313640
+    second: CHARACTER-LV-1_64
+  - first:
+      213: -5996248473208240445
+    second: CHARACTER-LV-1_65
+  - first:
+      213: -2582039506749045552
+    second: CHARACTER-LV-1_66
+  - first:
+      213: -2258026245914034972
+    second: CHARACTER-LV-1_67
+  - first:
+      213: 9073798967467352046
+    second: CHARACTER-LV-1_68
+  - first:
+      213: -3533160414219907076
+    second: CHARACTER-LV-1_69
+  - first:
+      213: 5316036669736747665
+    second: CHARACTER-LV-1_70
+  - first:
+      213: 8943552685672603970
+    second: CHARACTER-LV-1_71
+  - first:
+      213: 7523869944767252000
+    second: CHARACTER-LV-1_72
+  - first:
+      213: 8569357687794260968
+    second: CHARACTER-LV-1_73
+  - first:
+      213: -2419011972490732322
+    second: CHARACTER-LV-1_74
+  - first:
+      213: -2192582174878514758
+    second: CHARACTER-LV-1_75
+  - first:
+      213: -5828682679309931050
+    second: CHARACTER-LV-1_76
+  - first:
+      213: 5404496716533577934
+    second: CHARACTER-LV-1_77
+  - first:
+      213: -1587276771955895001
+    second: CHARACTER-LV-1_78
+  - first:
+      213: -8129949664326017268
+    second: CHARACTER-LV-1_79
+  - first:
+      213: 3631538579158624453
+    second: CHARACTER-LV-1_80
+  - first:
+      213: 4168769427515118118
+    second: CHARACTER-LV-1_81
+  - first:
+      213: -5716928002649842359
+    second: CHARACTER-LV-1_82
+  - first:
+      213: -5342784637366605001
+    second: CHARACTER-LV-1_83
+  - first:
+      213: -5358086138620003618
+    second: CHARACTER-LV-1_84
+  - first:
+      213: -94614811807518609
+    second: CHARACTER-LV-1_85
+  - first:
+      213: -5796319965061988914
+    second: CHARACTER-LV-1_86
+  - first:
+      213: -7783724785642979105
+    second: CHARACTER-LV-1_87
+  - first:
+      213: 4352062636739559060
+    second: CHARACTER-LV-1_88
+  - first:
+      213: -3269066351509674246
+    second: CHARACTER-LV-1_89
+  - first:
+      213: 1070620582923853657
+    second: CHARACTER-LV-1_90
+  - first:
+      213: 3615157927769366833
+    second: CHARACTER-LV-1_91
+  - first:
+      213: 1008459876983821144
+    second: CHARACTER-LV-1_92
+  - first:
+      213: -1506149239805575296
+    second: CHARACTER-LV-1_93
+  - first:
+      213: 813472292886857448
+    second: CHARACTER-LV-1_94
+  - first:
+      213: 3755254514801067520
+    second: CHARACTER-LV-1_95
+  - first:
+      213: -5449803372134176347
+    second: CHARACTER-LV-1_96
+  - first:
+      213: 4312753192660464531
+    second: CHARACTER-LV-1_97
+  - first:
+      213: -6633637058113726660
+    second: CHARACTER-LV-1_98
+  - first:
+      213: -6062698258068745211
+    second: CHARACTER-LV-1_99
+  - first:
+      213: 1674896603256185563
+    second: CHARACTER-LV-1_100
+  - first:
+      213: -8941606292989085218
+    second: CHARACTER-LV-1_101
+  - first:
+      213: -3251257067175330208
+    second: CHARACTER-LV-1_102
+  - first:
+      213: 1492495382334474078
+    second: CHARACTER-LV-1_103
+  - first:
+      213: -3218087630366713050
+    second: CHARACTER-LV-1_104
+  - first:
+      213: -3929469722540177404
+    second: CHARACTER-LV-1_105
+  - first:
+      213: -6337925300211136786
+    second: CHARACTER-LV-1_106
+  - first:
+      213: -915535277630112215
+    second: CHARACTER-LV-1_107
+  - first:
+      213: -635192401842218881
+    second: CHARACTER-LV-1_108
+  - first:
+      213: 8104253178040968386
+    second: CHARACTER-LV-1_109
+  - first:
+      213: -1657486646126927914
+    second: CHARACTER-LV-1_110
+  - first:
+      213: 1981802405975962625
+    second: CHARACTER-LV-1_111
+  - first:
+      213: -2299060869648056782
+    second: CHARACTER-LV-1_112
+  - first:
+      213: -3633927849344519758
+    second: CHARACTER-LV-1_113
+  - first:
+      213: 6940694565198105030
+    second: CHARACTER-LV-1_114
+  - first:
+      213: 4183845634735465743
+    second: CHARACTER-LV-1_115
+  - first:
+      213: 5168389314401261324
+    second: CHARACTER-LV-1_116
+  - first:
+      213: 8282156997265953470
+    second: CHARACTER-LV-1_117
+  - first:
+      213: -1806463918460786581
+    second: CHARACTER-LV-1_118
+  - first:
+      213: 869059678955736603
+    second: CHARACTER-LV-1_119
+  - first:
+      213: 3611925462057796026
+    second: CHARACTER-LV-1_120
+  - first:
+      213: -8426870385350853655
+    second: CHARACTER-LV-1_121
+  - first:
+      213: 6268697602808685477
+    second: CHARACTER-LV-1_122
+  - first:
+      213: -2573330303325578595
+    second: CHARACTER-LV-1_123
+  - first:
+      213: -6378499791986699042
+    second: CHARACTER-LV-1_124
+  - first:
+      213: 5989106524454254880
+    second: CHARACTER-LV-1_125
+  - first:
+      213: -2641873832095606750
+    second: CHARACTER-LV-1_126
+  - first:
+      213: 3637213745933994904
+    second: CHARACTER-LV-1_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1315
+        width: 398
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c556ec71cc3c40800000000000000
+      internalID: 5493478387669647635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1364
+        width: 260
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533c355aac8bdaec0800000000000000
+      internalID: -3553981350428818635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1321
+        width: 342
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7981f5f29d1a2970800000000000000
+      internalID: 8730823344639805821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_3
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1341
+        width: 254
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837fe4b02982ce500800000000000000
+      internalID: 426760672413415224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1184
+        width: 432
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aca69fb507d7bf0800000000000000
+      internalID: -324980057771947478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1092
+        width: 33
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d53a78e7e022fc40800000000000000
+      internalID: 5544530271656359383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1066
+        width: 37
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268567c1ef2f8a260800000000000000
+      internalID: 7109199185017460834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1026
+        width: 416
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4036dcee65478f460800000000000000
+      internalID: 7275693114739483396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1310
+        width: 156
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f1ecda2f7bff030800000000000000
+      internalID: 3530742885807693683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_9
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1065
+        width: 255
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af01b96275c3a0140800000000000000
+      internalID: 4686624707239940346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_10
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1308
+        width: 110
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616347a4ab390ea0800000000000000
+      internalID: -5906123857952808593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1027
+        width: 48
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87f9cb7428225f0800000000000000
+      internalID: -782920140590188376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1086
+        width: 50
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901301f88b4930680800000000000000
+      internalID: -8790018527301979895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1141
+        width: 38
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb69525d46dc7880800000000000000
+      internalID: -8611772759856813089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1022
+        width: 34
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf4798a016c47ea0800000000000000
+      internalID: -5875853838961389620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_15
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 739
+        width: 356
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bd09d1b6ab2d130800000000000000
+      internalID: 3590136822188006281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 708
+        width: 264
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae1164bd2dbbb10800000000000000
+      internalID: 1998422698884197042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 739
+        width: 412
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60994d3d6eef22b80800000000000000
+      internalID: -8420888085879547642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_18
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1015
+        width: 156
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe27900b9edc95e0800000000000000
+      internalID: -1901400185345986827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_19
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 778
+        width: 251
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6795971d3cae65cf0800000000000000
+      internalID: -263765401400682122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_20
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1013
+        width: 110
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d770cf6e87fcbe0800000000000000
+      internalID: -1454811221151220386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 709
+        width: 389
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b04cf74be626b910800000000000000
+      internalID: 1852711088676421814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_22
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 716
+        width: 200
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4931a3cf75c18acd0800000000000000
+      internalID: -2546754425058618476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_23
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 470
+        width: 725
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278dd283c2f7a980800000000000000
+      internalID: -8527580447874644187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 334
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98742fdb0065df540800000000000000
+      internalID: 5043281718911584137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 483
+        width: 35
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f5651bff4ed9e30800000000000000
+      internalID: 4512014188538126091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 528
+        width: 47
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6449524e459efc250800000000000000
+      internalID: 5967244582103389254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 559
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71282437d8a6887d0800000000000000
+      internalID: -2915963602965724649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_28
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 526
+        width: 32
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ffb36f8b985a50800000000000000
+      internalID: 6510124301520204601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_29
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 517
+        width: 33
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0852bf7b640cf0800000000000000
+      internalID: -286986280047735551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_30
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 470
+        width: 29
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa39585289ca04c0800000000000000
+      internalID: -4320419330843395423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 354
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83993b5d40f0e11d0800000000000000
+      internalID: -3378246157041690312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 303
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4751aef8b4ec3cac0800000000000000
+      internalID: -3835995633657178764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 332
+        width: 29
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8e0f6c236ee3810800000000000000
+      internalID: 1747086811226761451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 360
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309852e252cca770800000000000000
+      internalID: 8623481047748218930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 289
+        width: 25
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ffb1e244db71b30800000000000000
+      internalID: 4258080073231105887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 276
+        width: 29
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625dbb97c44e02dd0800000000000000
+      internalID: -2512757574961736410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_37
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 243
+        width: 23
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062453f5d7d3a2180800000000000000
+      internalID: -9139424885117468064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_38
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 273
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd7fa36d5993420800000000000000
+      internalID: 2610282206382775608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_39
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 326
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8beb7f633a777b20800000000000000
+      internalID: 3132106427191782286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_40
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 350
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7311ce4739dd0b710800000000000000
+      internalID: 1707107884164976951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_41
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 340
+        width: 59
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a44d32fa4317f60800000000000000
+      internalID: 8030257537403341375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_42
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 308
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9121e2c27decb580800000000000000
+      internalID: -8809905693891944036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 141
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f30272487a5cf2f0800000000000000
+      internalID: -937775149842562058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_44
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d38b41cf39f8b40800000000000000
+      internalID: 5444733185402879258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 165
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117bf9c2d49a7da0800000000000000
+      internalID: -5946276724936576751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_46
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 195
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a5c7c911c66210800000000000000
+      internalID: 1325959456777151016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 116
+        width: 22
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9be9f1102f888860800000000000000
+      internalID: 7532427744680471450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_48
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 145
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf4e4d3bed79ed0800000000000000
+      internalID: -2407210611853951857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_49
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 180
+        width: 28
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec4ba8c60dd54580800000000000000
+      internalID: -8843419272065889051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_50
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 128
+        width: 47
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de9216903a8ce70800000000000000
+      internalID: 9135731104801221990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c9a1eb50d2fe90800000000000000
+      internalID: -6993298178306357860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93320e1b0d3609700800000000000000
+      internalID: 545045302900433721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_53
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 104
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899bc336bea323d00800000000000000
+      internalID: 950887253985245592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 72
+        width: 23
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b35ac22226f6f960800000000000000
+      internalID: 7635560844726260663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_55
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 46
+        width: 25
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf29753f66f268f0800000000000000
+      internalID: -548605247086841915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_56
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 128
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56c64b2eec209e80800000000000000
+      internalID: -8173983922237553060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_57
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 96
+        width: 20
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c270455a503b9c0800000000000000
+      internalID: -3912777443617330151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_58
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 62
+        width: 26
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d84363f78398d4b0800000000000000
+      internalID: -5415416339799783215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_59
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 104
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98a5c2b98fda1b0800000000000000
+      internalID: -5643581412677613101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_60
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 28
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b085fe0647a753bd0800000000000000
+      internalID: -2651078165376575477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_61
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 40
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422f4e80cf609750800000000000000
+      internalID: 6309665950758019654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_62
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 44
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa4208f6fd4f9e0800000000000000
+      internalID: -1588399098570691895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_63
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 16
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335732c8b5124c60800000000000000
+      internalID: 7800821387835691827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_64
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 49
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aea8952677777b70800000000000000
+      internalID: 8896710938214313640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_65
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 47
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c17978cb09cca0800000000000000
+      internalID: -5996248473208240445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_66
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 61
+        width: 92
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c234bfb0ca2cd0800000000000000
+      internalID: -2582039506749045552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_67
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 42
+        width: 110
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf8c6c711e9a0e0800000000000000
+      internalID: -2258026245914034972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_68
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 18
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef923bf51c9ced70800000000000000
+      internalID: 9073798967467352046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_69
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 26
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff43ff9251b7fec0800000000000000
+      internalID: -3533160414219907076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_70
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 18
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1920c908f2b56c940800000000000000
+      internalID: 5316036669736747665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_71
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241a18b58c1ed1c70800000000000000
+      internalID: 8943552685672603970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_72
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 21
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02607120ad72a6860800000000000000
+      internalID: 7523869944767252000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_73
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb5d362a697ce670800000000000000
+      internalID: 8569357687794260968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_74
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd5407d61fd6ed0800000000000000
+      internalID: -2419011972490732322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_75
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 11
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab14385f0226291e0800000000000000
+      internalID: -2192582174878514758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_76
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 35
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd624f1cfb5c1fa0800000000000000
+      internalID: -5828682679309931050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_77
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 11
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8bfb22121a00b40800000000000000
+      internalID: 5404496716533577934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_78
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72517578f2cd8f9e0800000000000000
+      internalID: -1587276771955895001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_79
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 7
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9a08cadd9c2f80800000000000000
+      internalID: -8129949664326017268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_80
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 44
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c860e6d811d56230800000000000000
+      internalID: 3631538579158624453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_81
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 10
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6221c8d05b17ad930800000000000000
+      internalID: 4168769427515118118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_82
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 22
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d929b654469a0b0800000000000000
+      internalID: -5716928002649842359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_83
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 22
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b695afdad9ad5b0800000000000000
+      internalID: -5342784637366605001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_84
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda3c979b0144a5b0800000000000000
+      internalID: -5358086138620003618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_85
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60f8b7745cdfaef0800000000000000
+      internalID: -94614811807518609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_86
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 26
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb9f5b3b55f8fa0800000000000000
+      internalID: -5796319965061988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_87
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 24
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0c8522c87aaf390800000000000000
+      internalID: -7783724785642979105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_88
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 32
+        width: 106
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e7c1fe8e1a56c30800000000000000
+      internalID: 4352062636739559060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6651b3971f1a2d0800000000000000
+      internalID: -3269066351509674246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd56e6fbb9bde00800000000000000
+      internalID: 1070620582923853657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13161ab3bfe9b2230800000000000000
+      internalID: 3615157927769366833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853dad14ae4cefd00800000000000000
+      internalID: 1008459876983821144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_93
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ff9ae0f35191be0800000000000000
+      internalID: -1506149239805575296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c42c8db80a4b00800000000000000
+      internalID: 813472292886857448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_95
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00646e3c5185d1430800000000000000
+      internalID: 3755254514801067520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_96
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9673415b86e54b0800000000000000
+      internalID: -5449803372134176347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3937574cd2af9db30800000000000000
+      internalID: 4312753192660464531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_98
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 16
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37934efd3690f3a0800000000000000
+      internalID: -6633637058113726660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_99
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504de6b4e08fcdba0800000000000000
+      internalID: -6062698258068745211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_100
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2e790369d6e3710800000000000000
+      internalID: 1674896603256185563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_101
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9fcf0837809e380800000000000000
+      internalID: -8941606292989085218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_102
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e398d5ce631e2d0800000000000000
+      internalID: -3251257067175330208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_103
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5705f484a866b410800000000000000
+      internalID: 1492495382334474078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_104
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 17
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd9efa95e0753d0800000000000000
+      internalID: -3218087630366713050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_105
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 7
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40807584b18b779c0800000000000000
+      internalID: -3929469722540177404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_106
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee644fbe48a2b08a0800000000000000
+      internalID: -6337925300211136786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_107
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb485048d5b43f0800000000000000
+      internalID: -915535277630112215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_108
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78da2c30e75f27f0800000000000000
+      internalID: -635192401842218881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_109
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c466f6c357187070800000000000000
+      internalID: 8104253178040968386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_110
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df96a55dac6ff8e0800000000000000
+      internalID: -1657486646126927914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_111
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1043637c9c6c08b10800000000000000
+      internalID: 1981802405975962625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_112
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 6
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e70abe1581810e0800000000000000
+      internalID: -2299060869648056782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_113
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1bb68dfd1b19dc0800000000000000
+      internalID: -3633927849344519758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_114
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 23
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c90e150fec425060800000000000000
+      internalID: 6940694565198105030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_115
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e9751071001a30800000000000000
+      internalID: 4183845634735465743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_116
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07dfc9b2bec9b740800000000000000
+      internalID: 5168389314401261324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_117
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29d0488e120f270800000000000000
+      internalID: 8282156997265953470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_118
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a59023a62ee6e0800000000000000
+      internalID: -1806463918460786581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_119
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1
+        width: 79
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e85cc6c258f0c00800000000000000
+      internalID: 869059678955736603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_120
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c4292213202230800000000000000
+      internalID: 3611925462057796026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb37e0380ebd0b80800000000000000
+      internalID: -8426870385350853655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a321cbb143eef650800000000000000
+      internalID: 6268697602808685477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_123
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad78429b1b94cd0800000000000000
+      internalID: -2573330303325578595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_124
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4dab2eb340b77a0800000000000000
+      internalID: -6378499791986699042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029f11007a49d1350800000000000000
+      internalID: 5989106524454254880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_126
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289a883fbd265bd0800000000000000
+      internalID: -2641873832095606750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHARACTER-LV-1_127
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b409291aaf97230800000000000000
+      internalID: 3637213745933994904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
