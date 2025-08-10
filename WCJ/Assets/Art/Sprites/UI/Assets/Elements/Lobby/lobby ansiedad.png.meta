@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lobby ansiedad_0: -858595103509080482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

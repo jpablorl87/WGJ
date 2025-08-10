@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tuerca opciones_0: 6942501009559701883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

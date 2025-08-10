@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ansiedometro slider_0: -4018443135186959683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
