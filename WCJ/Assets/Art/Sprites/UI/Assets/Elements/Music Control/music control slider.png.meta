@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      music control slider_0: 7275266798079816010
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
