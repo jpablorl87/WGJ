@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerAnxiety : MonoBehaviour
 {
@@ -19,7 +20,6 @@ public class PlayerAnxiety : MonoBehaviour
 
     private bool isDead = false;
 
-   
     void Start()
     {
         if (mainCamera == null)
@@ -36,26 +36,18 @@ public class PlayerAnxiety : MonoBehaviour
             anxiety -= decayAmount;
             anxiety = Mathf.Max(anxiety, 0f);
 
-            float change = oldAnxiety - anxiety; 
-            Debug.Log($"[Baja Ansiedad] Antes: {oldAnxiety}, Cambio: -{change}, Ahora: {anxiety}");
-
+            Debug.Log($"[Baja Ansiedad] Antes: {oldAnxiety}, Cambio: -{(oldAnxiety - anxiety)}, Ahora: {anxiety}");
             decayTimer = 0f;
         }
 
-        // muerte por ansiedad máxima
         if (anxiety >= maxAnxiety)
-        {
             Die("Anxiety reached maximum");
-        }
 
-        // muerte por el borde izquierdo de pantalla 
         float zDist = Mathf.Abs(mainCamera.transform.position.z);
         float leftX = mainCamera.ViewportToWorldPoint(new Vector3(0f, 0.5f, zDist)).x;
 
         if (transform.position.x < leftX + marginLeftDeath)
-        {
             Die("Crossed the left border");
-        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -68,13 +60,10 @@ public class PlayerAnxiety : MonoBehaviour
             anxiety += anxietyPerEnemy;
             anxiety = Mathf.Min(anxiety, maxAnxiety);
 
-            float change = anxiety - oldAnxiety; // cuanto subió
-            Debug.Log($"[Sube Ansiedad] Antes: {oldAnxiety}, Cambio: +{change}, Ahora: {anxiety}");
+            Debug.Log($"[Sube Ansiedad] Antes: {oldAnxiety}, Cambio: +{(anxiety - oldAnxiety)}, Ahora: {anxiety}");
 
             if (anxiety >= maxAnxiety)
-            {
                 Die("Anxiety reached maximum");
-            }
         }
     }
 
@@ -82,6 +71,23 @@ public class PlayerAnxiety : MonoBehaviour
     {
         isDead = true;
         Debug.Log($"[Death] {reason}");
-        Destroy(gameObject);
+        Time.timeScale = 1f;
+
+        // Cargar la escena de Game Over
+        SceneManager.LoadScene("GameOver");
+
     }
+
+ 
+
+
+
+    
+
+    
+       
+        
+    
 }
+
+
