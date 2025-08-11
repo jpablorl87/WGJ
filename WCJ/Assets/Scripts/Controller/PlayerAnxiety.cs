@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerAnxiety : MonoBehaviour
 {
@@ -33,7 +34,6 @@ public class PlayerAnxiety : MonoBehaviour
         animationHandler = GetComponent<PlayerAnimationHandler>();
         movement = GetComponent<PlayerMovement>();
     }
-
     void Update()
     {
         if (isDead) return;
@@ -91,7 +91,7 @@ public class PlayerAnxiety : MonoBehaviour
         }
     }
 
-    private void Die(string reason)
+    /*private void Die(string reason)
     {
         if (isDead) return;
         isDead = true;
@@ -106,5 +106,20 @@ public class PlayerAnxiety : MonoBehaviour
 
         // Destruye tras breve delay
         Destroy(gameObject, 1.5f);
+    }*/
+    private void Die(string reason)
+    {
+        if (isDead) return;
+        isDead = true;
+        Debug.Log($"[Muerte] {reason}");
+        if (movement != null) movement.enabled = false;
+        animationHandler?.ForcePlayAnimation("HIT-ANSI", false);
+        // Cambia a pantalla Game Over inmediatamente
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("GameOver"); // Cambia "GameOver" por el nombre real de tu escena
+    }
+    public float GetAnxiety()
+    {
+        return anxiety;
     }
 }
