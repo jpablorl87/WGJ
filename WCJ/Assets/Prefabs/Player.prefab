@@ -439,7 +439,7 @@ MonoBehaviour:
   sprintMultiplier: 1.5
   jumpForce: 12
   dashForce: 12
-  dashCooldown: 1
+  dashCooldown: 2
   groundLayer:
     serializedVersion: 2
     m_Bits: 8

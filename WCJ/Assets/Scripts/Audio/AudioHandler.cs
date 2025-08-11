@@ -32,9 +32,23 @@ public class AudioHandler : MonoBehaviour
     {
         if (backgroundSource != null && bottomClip != null)
         {
-            backgroundSource.clip = bottomClip;
-            backgroundSource.loop = true;
-            backgroundSource.Play();
+            if (backgroundSource.isPlaying)
+            {
+                // Already playing, do nothing
+                return;
+            }
+            if (backgroundSource.clip == bottomClip && backgroundSource.time > 0f)
+            {
+                // Was paused, resume playback
+                backgroundSource.UnPause();
+            }
+            else
+            {
+                // Either stopped or clip not assigned, play from start
+                backgroundSource.clip = bottomClip;
+                backgroundSource.loop = true;
+                backgroundSource.Play();
+            }
         }
     }
 
@@ -57,6 +71,13 @@ public class AudioHandler : MonoBehaviour
         {
             Time.timeScale = 1f;
             backgroundSource.UnPause();
+        }
+    }
+    public void PauseBackground()
+    {
+        if (backgroundSource != null)
+        {
+            backgroundSource.Pause();
         }
     }
 }
