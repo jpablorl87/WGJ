@@ -4,7 +4,7 @@ public class MainMenuUI : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("GameLevel");
+        SceneManager.LoadScene("GameLevelTest");
     }
     public void OpenCredits()
     {
