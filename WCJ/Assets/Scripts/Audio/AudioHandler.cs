@@ -14,7 +14,10 @@ public class AudioHandler : MonoBehaviour
     [SerializeField] private AudioClip bottomClip;
 
     private bool isPaused = false;
-
+    private void Start()
+    {
+        PlayBackground();
+    }
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))

@@ -1,0 +1,129 @@
+Villano.png
+size:1552,1502
+filter:Linear,Linear
+pma:true
+Villano 2_00000
+bounds:2,753,747,773
+offsets:1,1,749,775
+rotate:90
+Villano 2_00001
+bounds:777,752,748,773
+offsets:1,1,750,775
+rotate:90
+Villano 2_00023
+bounds:2,3,748,773
+offsets:1,1,750,775
+rotate:90
+Villano 2_00024
+bounds:777,2,748,773
+offsets:1,1,750,775
+rotate:90
+
+Villano_2.png
+size:1552,1505
+filter:Linear,Linear
+pma:true
+Villano 2_00002
+bounds:2,754,749,773
+offsets:1,1,751,775
+rotate:90
+Villano 2_00003
+bounds:2,2,750,773
+offsets:1,1,752,775
+rotate:90
+Villano 2_00004
+bounds:777,2,750,773
+offsets:1,1,752,775
+rotate:90
+Villano 2_00022
+bounds:777,754,749,773
+offsets:1,1,751,775
+rotate:90
+
+Villano_3.png
+size:1552,1508
+filter:Linear,Linear
+pma:true
+Villano 2_00005
+bounds:777,2,752,773
+offsets:1,1,754,775
+rotate:90
+Villano 2_00019
+bounds:2,3,751,773
+offsets:1,1,753,775
+rotate:90
+Villano 2_00020
+bounds:2,756,750,773
+offsets:1,1,752,775
+rotate:90
+Villano 2_00021
+bounds:777,756,750,773
+offsets:1,1,752,775
+rotate:90
+
+Villano_4.png
+size:1552,1512
+filter:Linear,Linear
+pma:true
+Villano 2_00006
+bounds:777,757,753,773
+offsets:1,1,755,775
+rotate:90
+Villano 2_00007
+bounds:2,3,753,773
+offsets:1,1,755,775
+rotate:90
+Villano 2_00017
+bounds:777,2,753,773
+offsets:1,1,755,775
+rotate:90
+Villano 2_00018
+bounds:2,758,752,773
+offsets:1,1,754,775
+rotate:90
+
+Villano_5.png
+size:1552,1515
+filter:Linear,Linear
+pma:true
+Villano 2_00008
+bounds:2,2,755,773
+offsets:1,1,757,775
+rotate:90
+Villano 2_00013
+bounds:777,2,755,773
+offsets:1,1,757,775
+rotate:90
+Villano 2_00015
+bounds:2,759,754,773
+offsets:1,1,756,775
+rotate:90
+Villano 2_00016
+bounds:777,759,754,773
+offsets:1,1,756,775
+rotate:90
+
+Villano_6.png
+size:1518,1552
+filter:Linear,Linear
+pma:true
+Villano 2_00009
+bounds:2,777,756,773
+offsets:1,1,758,775
+Villano 2_00010
+bounds:2,2,756,773
+offsets:1,1,758,775
+Villano 2_00011
+bounds:760,3,756,772
+offsets:1,1,758,774
+Villano 2_00012
+bounds:760,777,756,773
+offsets:1,1,758,775
+
+Villano_7.png
+size:759,777
+filter:Linear,Linear
+pma:true
+Villano 2_00014
+bounds:2,2,755,773
+offsets:1,1,757,775
