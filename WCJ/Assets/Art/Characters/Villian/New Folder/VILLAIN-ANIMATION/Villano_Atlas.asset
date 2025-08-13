@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Villano_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 674679fcaa230b740a63c2c0b1b9a654, type: 3}
+  materials:
+  - {fileID: 2100000, guid: e5727a12bd2d13c4e8699653385abfe1, type: 2}
+  - {fileID: 2100000, guid: 36fe16dc59d6364429ee999ff240b221, type: 2}
+  - {fileID: 2100000, guid: 7f3b144056d1ce2439e79b98e592c0bd, type: 2}
+  - {fileID: 2100000, guid: aec7c9420e833cd42b134b3f54f78e35, type: 2}
+  - {fileID: 2100000, guid: cae2f74681260604bbad92b1947c68e8, type: 2}
+  - {fileID: 2100000, guid: f43fb8ea925c1694cb91864ad9fbc258, type: 2}
+  - {fileID: 2100000, guid: 0d12c85766f686146a93d9857e09f834, type: 2}
